@@ -1,0 +1,8 @@
+LOGIC
+C:\Users\Daniel\Desktop\lab3_files[1]\datasets\logic_small.csv C:\Users\Daniel\Desktop\lab3_files[1]\datasets\logic_small_test.csv C:\Users\Daniel\Desktop\lab3_files[1]\config\id3.cfg
+
+VOLLEYBALL
+C:\Users\Daniel\Desktop\lab3_files[1]\datasets\volleyball.csv C:\Users\Daniel\Desktop\lab3_files[1]\datasets\volleyball_test.csv C:\Users\Daniel\Desktop\lab3_files[1]\config\id3.cfg
+
+TITANIC
+C:\Users\Daniel\Desktop\lab3_files[1]\datasets\titanic_train_categorical.csv C:\Users\Daniel\Desktop\lab3_files[1]\datasets\titanic_test_categorical.csv C:\Users\Daniel\Desktop\lab3_files[1]\config\id3.cfg
